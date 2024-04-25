@@ -1,0 +1,2 @@
+reading 353 bytes
+nwrite = 353, errno = 0
